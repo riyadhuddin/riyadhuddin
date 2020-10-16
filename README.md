@@ -1,5 +1,7 @@
 
 
+[![Riyadh's github stats](https://github-readme-stats.vercel.app/api?username=riyadhuddin&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight )](https://github.com/riyadhuddin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyadhuddin&layout=compact)](https://github.com/riyadhuddin)
 
 
 
