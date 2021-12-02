@@ -4,8 +4,7 @@
 [![Riyadh's github stats](https://github-readme-stats.vercel.app/api?username=riyadhuddin&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight )](https://github.com/riyadhuddin)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyadhuddin&layout=compact&theme=tokyonight)](https://github.com/riyadhuddin)
 
-<a href="2021_10_04_12-45-54_pm.pdf" target="_blank">Vaccine Certificate.</a>
-
+![alt text](vaccine.png)
 <!--### Hi there 👋
 <a href="https://github.com/riyadhuddin">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=riyadhuddin&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight" />
