@@ -1,16 +1,16 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riyadhuddin&theme=tokyonight)](https://github.com/riyadhuddin)
-
+<img align ="right" src = "https://i.imgur.com/MSBoPbb.png" width="150" height="150">
 [![Riyadh's github stats](https://github-readme-stats.vercel.app/api?username=riyadhuddin&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight )](https://github.com/riyadhuddin)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyadhuddin&layout=compact&theme=tokyonight)](https://github.com/riyadhuddin)
 
-![alt text](
-Inkedvaccine_LI.jpg )
+<!-- ![alt text](
+Inkedvaccine_LI.jpg ) -->
 <!--### Hi there 👋
 <a href="https://github.com/riyadhuddin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=riyadhuddin&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=riyadhuddin&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/riyadhuddint">
+<a href="https://github.com/riyadhuddin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyadhuddin&layout=compact" />
 </a>
 -->
