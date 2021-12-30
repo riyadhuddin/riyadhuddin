@@ -1,5 +1,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riyadhuddin&theme=tokyonight)](https://github.com/riyadhuddin)
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=40de8412fc2d&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 <img align ="right" src = "https://raw.githubusercontent.com/riyadhuddin/bengalivictoryday/main/assets/ezgif.com-gif-maker.gif" width="180" height="180">
 [![Riyadh's github stats](https://github-readme-stats.vercel.app/api?username=riyadhuddin&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight )](https://github.com/riyadhuddin)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyadhuddin&layout=compact&theme=tokyonight)](https://github.com/riyadhuddin)
