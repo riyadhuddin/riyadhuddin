@@ -9,6 +9,8 @@
 <riyadh@iacdrops.xyz>
 <!--  ![aws riyadh](assets/AWS%20BugBust%20reInvent%20Challenge%20Certificate_RU.pdf "aws riyadh") -->
  <embed src="assets/AWS%20BugBust%20reInvent%20Challenge%20Certificate_RU.pdf" type="application/pdf">
+ <object data="assets/AWS%20BugBust%20reInvent%20Challenge%20Certificate_RU.pdf" type="application/pdf" width="100%"> 
+</object>
 <!-- ![alt text](
 Inkedvaccine_LI.jpg ) -->
 <!--### Hi there 👋
