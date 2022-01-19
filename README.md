@@ -7,6 +7,8 @@
 [![Riyadh's github stats](https://github-readme-stats.vercel.app/api?username=riyadhuddin&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight )](https://github.com/riyadhuddin)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyadhuddin&layout=compact&theme=tokyonight)](https://github.com/riyadhuddin)
 <riyadh@iacdrops.xyz>
+<!--  ![aws riyadh](assets/AWS%20BugBust%20reInvent%20Challenge%20Certificate_RU.pdf "aws riyadh") -->
+ <embed src="assets/AWS%20BugBust%20reInvent%20Challenge%20Certificate_RU.pdf" type = "application.pdf">
 <!-- ![alt text](
 Inkedvaccine_LI.jpg ) -->
 <!--### Hi there 👋
